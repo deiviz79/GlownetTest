@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9148578-9a80-4e00-ba42-74a79ba8ebae</testCaseGuid>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>a2270b86-ebcb-4cfe-bd5d-ee001d38a2b0</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>88cbf29b-0e30-4ddb-8606-94e6b4ee51c5</id>
+      <masked>false</masked>
+      <name>Program</name>
+   </variable>
+   <variable>
+      <defaultValue>'31/12/2018'</defaultValue>
+      <description></description>
+      <id>d08466ce-5ce3-436d-9eb1-9a7092f997c8</id>
+      <masked>false</masked>
+      <name>VisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Appointment'</defaultValue>
+      <description></description>
+      <id>488c677f-3ebe-49a4-ade7-e5d58d87d117</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>
